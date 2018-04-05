@@ -144,6 +144,6 @@ echo ("args CPP  or C++ : c++ project ")
 echo ("args py : python project ")
 echo ("args LATEX : latex project")
 echo (" BEAMER : BEAMER  project ")
+ echo $0
 
-echo $0
 
