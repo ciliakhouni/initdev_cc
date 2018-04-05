@@ -134,8 +134,8 @@ echo $1
 
 
 // creation de help //
-mkdir HELP 
-if ("help" =" HELP ")
+mkdir Help
+if ("Help" ="help")
 then 
 echo ("initdev_cc: a developper tool that save time by setting up dev directory ")
 echo ("use  : initdev <dev_source_name>")
@@ -144,5 +144,6 @@ echo ("args CPP  or C++ : c++ project ")
 echo ("args py : python project ")
 echo ("args LATEX : latex project")
 echo (" BEAMER : BEAMER  project ")
+
 echo $0
 
